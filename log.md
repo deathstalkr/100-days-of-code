@@ -30,9 +30,19 @@
 
 # 100 Days Of Code - Log
 
-### Day 0: June 06, 2022
+### Day 1: June 07, 2022
 
 **Today's Progress**: Learned about Import and Export functionnality of Javascript. Aditionally spent some time going through Just Javascript course by Dan Abramov and cosequently finished the first two modules.
 
 **Thoughts:** Personally I think it is a very cool feature to use functions and variables from diffrent module. What I found was we need to include type = "module" inside the <script> tag to make this work. 
   Just Javascript just changed the way how I looked into variables and values. Stuffs started making sense. I am really glad I came across this course.
+
+  
+ ### Day 2: June 08, 2022
+
+**Today's Progress**: Studies some concept of async Javascript and went through some Just Javascript course
+
+
+
+**Thoughts** Studies concept related to callback functions in JS and wrote a small implementation of it. Came across Callback hell. As usual spent some time on Just Javascript course and finished the 'Values and Variables' module today. Really happy that I purchased this course. 
+  'Variables points to values' -- Sun Tsu
