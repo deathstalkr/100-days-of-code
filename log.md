@@ -40,9 +40,14 @@
   
  ### Day 2: June 08, 2022
 
-**Today's Progress**: Studies some concept of async Javascript and went through some Just Javascript course
-
-
+**Today's Progress**: Studied some concept of async Javascript and went through some JustJavascript course
 
 **Thoughts** Studies concept related to callback functions in JS and wrote a small implementation of it. Came across Callback hell. As usual spent some time on Just Javascript course and finished the 'Values and Variables' module today. Really happy that I purchased this course. 
   'Variables points to values' -- Sun Tsu
+  
+### Day 3: June 09, 2022
+
+**Today's Progress**: Continued with Async Javascript; learned about Promises and Asyns/await
+
+
+**Thoughts** Learned a lot on the asynchronous Javascript and thanks to Joy for making it so much simpler to wrap my head around. Callbacks, Promises and Async/await are really cool and takes Javascript to a whole new level. Today tried creating ice-creams procedurally with time constrains by implementing Async feature of Javascript using all three techniques(Callbacks, Promises and Async/await). Need to work on it more to get a hold of it.
