@@ -51,3 +51,11 @@
 
 
 **Thoughts** Learned a lot on the asynchronous Javascript and thanks to Joy for making it so much simpler to wrap my head around. Callbacks, Promises and Async/await are really cool and takes Javascript to a whole new level. Today tried creating ice-creams procedurally with time constrains by implementing Async feature of Javascript using all three techniques(Callbacks, Promises and Async/await). Need to work on it more to get a hold of it.
+  
+  
+  ### Day 4: June 10, 2022
+
+**Today's Progress**: Started off with some vanilla JS projects. Completed 4th module of JustJavascript
+
+  
+**Thoughts** Put some effort into starting off with some Vanilla JS projects to get some handson experience. Started off by coding some basic HTML for a color flipper app which changes color on random when the button is clicked. More on it tomorrow. Aditionally read some more about Javascript Universe and its view from inside. 
