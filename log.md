@@ -59,3 +59,15 @@
 
   
 **Thoughts** Put some effort into starting off with some Vanilla JS projects to get some handson experience. Started off by coding some basic HTML for a color flipper app which changes color on random when the button is clicked. More on it tomorrow. Aditionally read some more about Javascript Universe and its view from inside. 
+  
+  
+### Day 5: June 11, 2022
+
+**Today's Progress**: Completed my first Hands-on JS project. Finished with 5th module of JustJS
+
+**Thoughts** Fisished my first vanilla JS hands-on project with style. Created a color flipper application which changes background color on the fly by generating random hex numbers. Really excited to build more projects like this and can't wait to show it to teh world. Aditionally, as usual completed
+the 5th module of JJS XD.I'm now really able to get the hang of the Javascript Universe mental model. Understood in depth about primitive values and got to konw a bug in JS where "typeof" function returns **object** for 'null' even though it being a primitive data type and also the only value of such type.
+  
+**Link(s) to work**
+
+1. [Color Flipper](https://github.com/deathstalkr/Javascript/tree/master/javascript-basic-projects/01-color-flipper/setup)
