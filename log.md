@@ -71,3 +71,11 @@ the 5th module of JJS XD.I'm now really able to get the hang of the Javascript U
 **Link(s) to work**
 
 1. [Color Flipper](https://github.com/deathstalkr/Javascript/tree/master/javascript-basic-projects/01-color-flipper/setup)
+
+### Day 6: June 12, 2022
+
+
+
+**Today's Progress**: Completed my Second Hands-on JS project.
+
+**Thoughts** Continuing my JS learning streak, as today I completed my second basic JS project called 'Counter' which updates the HTML DOM when increase, decrease or reset buttons are clicked and additionally update the text color based on the integer category(-:red, 0:black, +:green). Learned a new technique of listening to multiple button clicks simultaneousy and then filter the event based on the class returned of the button clicked using "event.currentTarget.classList" to perform the necessary action. Will venture into JJS universe tomorrow.
