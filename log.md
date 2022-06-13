@@ -74,8 +74,22 @@ the 5th module of JJS XD.I'm now really able to get the hang of the Javascript U
 
 ### Day 6: June 12, 2022
 
-
-
 **Today's Progress**: Completed my Second Hands-on JS project.
 
 **Thoughts** Continuing my JS learning streak, as today I completed my second basic JS project called 'Counter' which updates the HTML DOM when increase, decrease or reset buttons are clicked and additionally update the text color based on the integer category(-:red, 0:black, +:green). Learned a new technique of listening to multiple button clicks simultaneousy and then filter the event based on the class returned of the button clicked using "event.currentTarget.classList" to perform the necessary action. Will venture into JJS universe tomorrow.
+
+  **Link(s) to work**
+  
+1. [Counter](https://github.com/deathstalkr/Javascript/tree/master/javascript-basic-projects/02-counter/setup)
+  
+ ### Day 7: June 13, 2022
+
+**Today's Progress**: Completed my Third Hands-on JS project back to back in three days. Super stoked
+
+**Thoughts** Had a very hectic day but still managed to pull some time off to build another tiny project which shows reviews of random people with all the details, by pulling off the details from an array. DOM gets updated with a new review each time any of the next, previous or random button is clicked. This is easy and quite similar to the previous ones, but still managed to learn how to load default content when a HTML DOM is fully loaded by using the 'addEventListner' of the window object and use 'DOMContentLoaded' as the trigger. 
+Another day went dry without compleating a JJS module. Will hopefully be able to pick it up by the end of this week. 
+
+  **Link(s) to work**
+
+1. [Review](https://github.com/deathstalkr/Javascript/tree/master/javascript-basic-projects/03-reviews/setup)
+
