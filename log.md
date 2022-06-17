@@ -93,3 +93,8 @@ Another day went dry without compleating a JJS module. Will hopefully be able to
 
 1. [Review](https://github.com/deathstalkr/Javascript/tree/master/javascript-basic-projects/03-reviews/setup)
 
+ ### Day 8: June 17, 2022
+
+**Today's Progress**: Completed my Fourth Hands-on JS project. Another dry day for JJS
+
+**Thoughts** after a brief pause as I was shifting to a new location I managed to steal some time for personal growth. Finished another micro project on JS called navbars. Learned how to toggle navbars using JS. Just needed to add and remove a specific class from the navlist tags which has a CSS attribute defined using using 'classList.toggle' method. This was a very simple project but still managed to learn new stuff. Next up is sidebars toggle. Feels like I need to get hold of CSS to build something useful. Additionally, need to pick up JJS which has been kept aside for about a week now.
